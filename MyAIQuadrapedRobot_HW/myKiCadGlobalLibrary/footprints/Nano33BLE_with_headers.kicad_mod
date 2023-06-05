@@ -1,4 +1,4 @@
-(footprint "Arduino_BLE_33" (version 20211014) (generator pcbnew)
+(footprint "Nano33BLE_with_headers" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 58ACAF70)
   (descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
@@ -81,9 +81,9 @@
   (pad "28" thru_hole oval (at 15.24 5.08) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 3f909fc8-bf05-47eb-bb60-ea2163559073))
   (pad "29" thru_hole oval (at 15.24 2.54) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 5ee4beca-344f-4c9f-9765-02e7588136af))
   (pad "30" thru_hole oval (at 15.24 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 59a4cc04-701b-4376-9005-58bf36a059d4))
-  (model "/home/james/Public/Projects/Project_10b/CatBot_library/Nano33BLE.step"
-    (offset (xyz 0 0 0))
+  (model "${MY_KICAD_SYMBOL_DIR}/3Dmodels/Nano33BLE_with_headers.step"
+    (offset (xyz 16.5 -39.37 11))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )

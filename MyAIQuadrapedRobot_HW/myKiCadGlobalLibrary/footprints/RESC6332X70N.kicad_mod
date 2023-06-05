@@ -22,4 +22,9 @@
   (fp_line (start 3.25 1.73) (end -3.25 1.73) (layer "F.Fab") (width 0.127) (tstamp efcbec06-fa09-40c4-8153-e8a1ae1aced3))
   (pad "1" smd rect (at -2.944 0) (size 1.33 3.46) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e464998-fbc2-4381-8748-065e1b3c1334))
   (pad "2" smd rect (at 2.944 0) (size 1.33 3.46) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2c71756e-bcda-4bd7-a06f-ee84b238b4a9))
+  (model "${MY_KICAD_SYMBOL_DIR}/3Dmodels/RMCF2512FT330R.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
