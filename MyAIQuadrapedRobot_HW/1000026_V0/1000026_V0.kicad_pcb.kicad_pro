@@ -378,7 +378,9 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "7.4V",
-        "nets": [],
+        "nets": [
+          "7.4V"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(132, 0, 0)",
         "track_width": 0.25,
@@ -396,7 +398,9 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "GND",
-        "nets": [],
+        "nets": [
+          "GND"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(132, 132, 132)",
         "track_width": 0.25,
