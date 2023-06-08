@@ -26,4 +26,9 @@
   (fp_line (start 1.7 0.9) (end -1.7 0.9) (layer "F.Fab") (width 0.127) (tstamp a41f568b-013d-4afd-8c05-ecafdbb761a5))
   (pad "1" smd rect (at -1.475 0) (size 1.16 1.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0e37ccab-e85e-4ccd-a96c-2fb308ad3e41))
   (pad "2" smd rect (at 1.475 0) (size 1.16 1.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5655eff-7f9e-4f4f-901e-38c988114ab6))
+  (model "${MY_KICAD_SYMBOL_DIR}/3Dmodels/12065C503JAT2A.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
