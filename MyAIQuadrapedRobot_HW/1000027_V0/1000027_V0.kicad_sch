@@ -1773,15 +1773,6 @@
     (uuid ff1d78b8-894e-42dc-80c8-9703e75a8cb5)
   )
 
-  (text "Connector on \nmain PCB." (at 71.374 103.886 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 45d8306d-b441-4bb2-b501-93ba7b793d78)
-  )
-  (text "Connector on camera." (at 64.008 41.91 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid dc1a715b-a5c2-4856-a77e-d68694e5984b)
-  )
-
   (label "GND" (at 216.154 69.342 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 47430baa-f759-4f78-ad51-17eae210d94a)
