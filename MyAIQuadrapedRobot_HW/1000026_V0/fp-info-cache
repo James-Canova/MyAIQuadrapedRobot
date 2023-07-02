@@ -1,4 +1,4 @@
-20906043165801447
+20911108129254134
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87451,6 +87451,13 @@ myKiCadGlobalFootprintLibrary
 2
 2
 myKiCadGlobalFootprintLibrary
+12102C104KAT2A
+
+
+0
+2
+2
+myKiCadGlobalFootprintLibrary
 525591853
 
 
@@ -87529,6 +87536,20 @@ RESC6332X70N
 2
 myKiCadGlobalFootprintLibrary
 RGEF300HF
+
+
+0
+2
+2
+myKiCadGlobalFootprintLibrary
+RMCF1210JT10K0
+
+
+0
+2
+2
+myKiCadGlobalFootprintLibrary
+RMCF1210JT330R
 
 
 0
